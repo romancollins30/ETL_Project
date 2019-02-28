@@ -1,0 +1,300 @@
+,Player,Position,YRS,AVG Salary,Dollars
+0,Manny Machado,3B,10.0,"$30,000,000","$300,000,000"
+1,Patrick Corbin,SP,6.0,"$23,333,333","$140,000,000"
+2,Nathan Eovaldi,SP,4.0,"$17,000,000","$68,000,000"
+3,A.J. Pollock,CF,5.0,"$12,000,000","$60,000,000"
+4,Andrew McCutchen,RF,3.0,"$16,666,667","$50,000,000"
+5,Zack Britton,RP,3.0,"$13,000,000","$39,000,000"
+6,J.A. Happ,SP,2.0,"$17,000,000","$34,000,000"
+7,Michael Brantley,LF,2.0,"$16,000,000","$32,000,000"
+8,Jeurys Familia,RP,3.0,"$10,000,000","$30,000,000"
+9,Charlie Morton,SP,2.0,"$15,000,000","$30,000,000"
+10,Lance Lynn,SP,3.0,"$10,000,000","$30,000,000"
+11,Adam Ottavino,RP,3.0,"$9,000,000","$27,000,000"
+12,Andrew Miller,RP,2.0,"$12,500,000","$25,000,000"
+13,Joe Kelly,RP,3.0,"$8,333,333","$25,000,000"
+14,D.J. LeMahieu,2B,2.0,"$12,000,000","$24,000,000"
+15,Daniel Murphy,1B,2.0,"$12,000,000","$24,000,000"
+16,David Robertson,RP,2.0,"$11,500,000","$23,000,000"
+17,Josh Donaldson,3B,1.0,"$23,000,000","$23,000,000"
+18,Marwin Gonzalez,LF,2.0,"$10,500,000","$21,000,000"
+19,Jed Lowrie,2B,2.0,"$10,000,000","$20,000,000"
+20,Anibal Sanchez,SP,2.0,"$9,500,000","$19,000,000"
+21,Wilson Ramos,C,2.0,"$9,500,000","$19,000,000"
+22,Yasmani Grandal,C,1.0,"$18,250,000","$18,250,000"
+23,Kelvin Herrera,RP,2.0,"$9,000,000","$18,000,000"
+24,Garrett Richards,SP,2.0,"$7,750,000","$15,500,000"
+25,Joakim Soria,RP,2.0,"$7,500,000","$15,000,000"
+26,Nelson Cruz,DH,1.0,"$14,300,000","$14,300,000"
+27,Michael Fiers,SP,2.0,"$7,050,000","$14,100,000"
+28,Matt Harvey,SP,1.0,"$11,000,000","$11,000,000"
+29,Mike Moustakas,3B,1.0,"$10,000,000","$10,000,000"
+30,Justin Wilson,RP,2.0,"$5,000,000","$10,000,000"
+31,Kurt Suzuki,C,2.0,"$5,000,000","$10,000,000"
+32,Brian Dozier,2B,1.0,"$9,000,000","$9,000,000"
+33,Trevor Cahill,SP,1.0,"$9,000,000","$9,000,000"
+34,Cody Allen,RP,1.0,"$8,500,000","$8,500,000"
+35,Ian Kinsler,2B,2.0,"$4,000,000","$8,000,000"
+36,Jesse Chavez,RP,2.0,"$4,000,000","$8,000,000"
+37,Jonathan Schoop,2B,1.0,"$7,500,000","$7,500,000"
+38,Derek Holland,RP,1.0,"$7,000,000","$7,000,000"
+39,Nick Markakis,RF,1.0,"$6,000,000","$6,000,000"
+40,Tyson Ross,SP,1.0,"$5,750,000","$5,750,000"
+41,Robinson Chirinos,C,1.0,"$5,750,000","$5,750,000"
+42,Jordy Mercer,SS,1.0,"$5,250,000","$5,250,000"
+43,Billy Hamilton,CF,1.0,"$5,250,000","$5,250,000"
+44,Freddy Galvis,SS,1.0,"$5,000,000","$5,000,000"
+45,Daniel Descalso,2B,2.0,"$2,500,000","$5,000,000"
+46,Wade Miley,SP,1.0,"$4,500,000","$4,500,000"
+47,Brad Brach,RP,1.0,"$4,350,000","$4,350,000"
+48,Ervin Santana (minor),SP,1.0,"$4,300,000","$4,300,000"
+49,Wilmer Flores,2B,1.0,"$4,250,000","$4,250,000"
+50,Marco Estrada,SP,1.0,"$4,000,000","$4,000,000"
+51,Martin Perez,SP,1.0,"$4,000,000","$4,000,000"
+52,Jon Jay,RF,1.0,"$4,000,000","$4,000,000"
+53,Matt Adams,1B,1.0,"$4,000,000","$4,000,000"
+54,Asdrubal Cabrera,2B,1.0,"$3,500,000","$3,500,000"
+55,Avisail Garcia,RF,1.0,"$3,500,000","$3,500,000"
+56,Matt Shoemaker,SP,1.0,"$3,500,000","$3,500,000"
+57,Jonathan Lucroy,C,1.0,"$3,350,000","$3,350,000"
+58,Greg Holland,RP,1.0,"$3,250,000","$3,250,000"
+59,Adeiny Hechavarria (minor),SS,1.0,"$3,000,000","$3,000,000"
+60,Chris Owings,2B,1.0,"$3,000,000","$3,000,000"
+61,Jake Diekman,RP,1.0,"$2,750,000","$2,750,000"
+62,Shawn Kelley,RP,1.0,"$2,750,000","$2,750,000"
+63,Lonnie Chisenhall,RF,1.0,"$2,750,000","$2,750,000"
+64,Jose Iglesias (minor),SS,1.0,"$2,500,000","$2,500,000"
+65,Sergio Romo,RP,1.0,"$2,500,000","$2,500,000"
+66,Oliver Perez,RP,1.0,"$2,500,000","$2,500,000"
+67,David Phelps,RP,1.0,"$2,500,000","$2,500,000"
+68,James McCann,C,1.0,"$2,500,000","$2,500,000"
+69,Justin Bour,1B,1.0,"$2,500,000","$2,500,000"
+70,Matt Moore,SP,1.0,"$2,500,000","$2,500,000"
+71,Brad Boxberger,RP,1.0,"$2,200,000","$2,200,000"
+72,Jordan Lyles,SP,1.0,"$2,050,000","$2,050,000"
+73,Logan Forsythe (minor),2B,1.0,"$2,000,000","$2,000,000"
+74,Josh Harrison,2B,1.0,"$2,000,000","$2,000,000"
+75,Robbie Grossman,DH,1.0,"$2,000,000","$2,000,000"
+76,Hunter Pence (minor),RF,1.0,"$2,000,000","$2,000,000"
+77,Zach Duke,RP,1.0,"$2,000,000","$2,000,000"
+78,Neil Walker,2B,1.0,"$2,000,000","$2,000,000"
+79,Shelby Miller,SP,1.0,"$2,000,000","$2,000,000"
+80,Hector Santiago (minor),RP,1.0,"$2,000,000","$2,000,000"
+81,Brian McCann,C,1.0,"$2,000,000","$2,000,000"
+82,Francisco Liriano (minor),SP,1.0,"$1,800,000","$1,800,000"
+83,Blake Parker,RP,1.0,"$1,800,000","$1,800,000"
+84,Tyler Clippard (minor),RP,1.0,"$1,750,000","$1,750,000"
+85,Cameron Maybin (minor),RF,1.0,"$1,750,000","$1,750,000"
+86,Yangervis Solarte (minor),3B,1.0,"$1,750,000","$1,750,000"
+87,Gerardo Parra (minor),RF,1.0,"$1,750,000","$1,750,000"
+88,Lucas Duda (minor),1B,1.0,"$1,750,000","$1,750,000"
+89,Devin Mesoraco (minor),C,1.0,"$1,750,000","$1,750,000"
+90,Curtis Granderson (minor),LF,1.0,"$1,750,000","$1,750,000"
+91,Tim Beckham,3B,1.0,"$1,750,000","$1,750,000"
+92,John Axford (minor),RP,1.0,"$1,650,000","$1,650,000"
+93,Brandon Guyer (minor),LF,1.0,"$1,600,000","$1,600,000"
+94,Brett Anderson,SP,1.0,"$1,500,000","$1,500,000"
+95,Daniel Hudson (minor),RP,1.0,"$1,500,000","$1,500,000"
+96,Marc Rzepczynski (minor),RP,1.0,"$1,500,000","$1,500,000"
+97,Jerry Blevins (minor),RP,1.0,"$1,500,000","$1,500,000"
+98,Brandon Maurer (minor),RP,1.0,"$1,500,000","$1,500,000"
+99,Drew Pomeranz,SP,1.0,"$1,500,000","$1,500,000"
+100,Cory Gearrin,RP,1.0,"$1,400,000","$1,400,000"
+101,Jeremy Hellickson,SP,1.0,"$1,300,000","$1,300,000"
+102,Drew Butera (minor),C,1.0,"$1,300,000","$1,300,000"
+103,Hunter Strickland,RP,1.0,"$1,300,000","$1,300,000"
+104,Vidal Nuno (minor),RP,1.0,"$1,300,000","$1,300,000"
+105,Nick Hundley (minor),C,1.0,"$1,250,000","$1,250,000"
+106,Matt Joyce (minor),LF,1.0,"$1,250,000","$1,250,000"
+107,Josh Tomlin (minor),RP,1.0,"$1,250,000","$1,250,000"
+108,Melky Cabrera (minor),LF,1.0,"$1,150,000","$1,150,000"
+109,Caleb Joseph,C,1.0,"$1,100,000","$1,100,000"
+110,Ben Revere (minor),CF,1.0,"$1,000,000","$1,000,000"
+111,Dan Jennings (minor),RP,1.0,"$1,000,000","$1,000,000"
+112,Adam Rosales (minor),2B,1.0,"$1,000,000","$1,000,000"
+113,Ryan Flaherty (minor),3B,1.0,"$1,000,000","$1,000,000"
+114,Mark Reynolds (minor),3B,1.0,"$1,000,000","$1,000,000"
+115,Zach McAllister,RP,1.0,"$1,000,000","$1,000,000"
+116,Gorkys Hernandez (minor),LF,1.0,"$1,000,000","$1,000,000"
+117,Chris Herrmann,C,1.0,"$1,000,000","$1,000,000"
+118,Jose Lobaton (minor),C,1.0,"$1,000,000","$1,000,000"
+119,Matt Szczur (minor),CF,1.0,"$950,000","$950,000"
+120,Xavier Cedeno (minor),RP,1.0,"$900,000","$900,000"
+121,Odrisamer Despaigne (minor),RP,1.0,"$875,000","$875,000"
+122,Tom Koehler (minor),RP,1.0,"$850,000","$850,000"
+123,Jesus Sucre (minor),C,1.0,"$850,000","$850,000"
+124,Andres Blanco (minor),3B,1.0,"$850,000","$850,000"
+125,Kelby Tomlinson (minor),2B,1.0,"$850,000","$850,000"
+126,Nate Karns,SP,1.0,"$800,000","$800,000"
+127,Ronald Torreyes (minor),2B,1.0,"$800,000","$800,000"
+128,Tony Barnette,RP,1.0,"$750,000","$750,000"
+129,Cameron Rupp (minor),C,1.0,"$750,000","$750,000"
+130,Alcides Escobar (minor),SS,1.0,"$700,000","$700,000"
+131,Francisco Pena (minor),C,1.0,"$675,000","$675,000"
+132,Zac Rosscup,RP,1.0,"$610,000","$610,000"
+133,Adam Moore (minor),C,1.0,"$600,000","$600,000"
+134,Josh Thole (minor),C,1.0,"$600,000","$600,000"
+135,Kendall Graveman,SP,1.0,"$575,000","$575,000"
+136,Homer Bailey (minor),SP,1.0,"$555,000","$555,000"
+137,Troy Tulowitzki,SS,1.0,"$555,000","$555,000"
+138,Matt Wieters (minor),C,1.0,,
+139,Trevor Plouffe (minor),3B,,,
+140,Derek Dietrich (minor),2B,,,
+141,Cliff Pennington (minor),SS,,,
+142,Lucas Luetge (minor),RP,,,
+143,Stephen Vogt (minor),C,,,
+144,Eric Young Jr. (minor),CF,,,
+145,Tyler Cloyd (minor),RP,,,
+146,Rene Rivera (minor),C,,,
+147,Sean Burnett (minor),RP,,,
+148,Logan Ondrusek (minor),RP,,,
+149,Nick Franklin (minor),LF,,,
+150,Jason Hammel (minor),RP,,,
+151,Matt Davidson (minor),DH,,,
+152,J.B. Shuck (minor),LF,1.0,,
+153,Emilio Bonifacio (minor),CF,,,
+154,Chris Stewart (minor),C,,,
+155,Justin De Fratus (minor),RP,,,
+156,Gordon Beckham (minor),2B,1.0,,
+157,Hector Sanchez (minor),C,,,
+158,Carlos Torres (minor),RP,,,
+159,Andrew Romine (minor),SS,,,
+160,Colin Rea (minor),SP,,,
+161,Taylor Guerrieri (minor),SP,1.0,,
+162,Luis Avilan (minor),RP,,,
+163,Jake Petricka,RP,,,
+164,Paulo Orlando (minor),CF,,,
+165,Tyler Lyons (minor),RP,,,
+166,Carson Smith (minor),RP,1.0,,
+167,Alex Meyer (minor),SP,1.0,,
+168,Anthony Bass (minor),RP,1.0,,
+169,Jamie Callahan (minor),P,,,
+170,Adrian Sampson (minor),RP,,,
+171,Gregor Blanco (minor),RF,1.0,,
+172,Eric Sogard (minor),2B,,,
+173,Shane Robinson (minor),CF,,,
+174,Jeanmar Gomez (minor),RP,1.0,,
+175,Phillip Evans (minor),3B,,,
+176,Rajai Davis (minor),CF,1.0,,
+177,Bubba Starling (minor),CF,1.0,,
+178,Jason Adam (minor),RP,,,
+179,Chase d'Arnaud (minor),3B,1.0,,
+180,Zac Curtis (minor),RP,1.0,,
+181,Matt Bush (minor),RP,1.0,,
+182,Pedro Florimon (minor),SS,,,
+183,Tom Milone (minor),RP,1.0,,
+184,Bobby Wilson (minor),C,1.0,,
+185,Rafael Montero (minor),RP,1.0,,
+186,Pedro Alvarez (minor),1B,1.0,,
+187,James Hoyt (minor),RP,1.0,,
+188,Tony Renda (minor),2B,1.0,,
+189,Jace Peterson (minor),3B,1.0,,
+190,Peter Bourjos (minor),RF,1.0,,
+191,James Shields,SP,,,
+192,Bryce Harper,CF,,"$31,053,237",
+193,David Wright,3B,,,
+194,Victor Martinez,DH,,,
+195,Adam Jones,CF,,"$16,020,959",
+196,Dallas Keuchel,SP,,"$22,351,287",
+197,Brandon McCarthy,SP,,,
+198,Craig Kimbrel,RP,,"$16,512,151",
+199,Denard Span,LF,,,
+200,A.J. Ramos,RP,,,
+201,Gio Gonzalez,SP,,,
+202,Carlos Gonzalez,RF,,,
+203,Ryan Madson,RP,,,
+204,Evan Gattis,DH,,"$7,787,265",
+205,Logan Morrison,DH,,,
+206,Tony Sipp,RP,,,
+207,Jim Johnson,RP,,,
+208,Miguel Gonzalez,SP,,,
+209,Carlos Gomez,RF,,,
+210,Doug Fister,SP,,,
+211,Martin Maldonado,C,,"$3,954,853",
+212,Adam Warren,RP,,,
+213,Bud Norris,RP,,"$8,866,267",
+214,Colby Rasmus,LF,,,
+215,Hisashi Iwakuma,SP,,,
+216,Kyle Lohse,SP,,,
+217,Yovani Gallardo,SP,,,
+218,Chris Young,RF,,,
+219,Jose Reyes,SS,,,
+220,Alex Wilson,RP,,,
+221,Aaron Loup,RP,,,
+222,Bartolo Colon,SP,,,
+223,Chris Carter,1B,,,
+224,Clay Buchholz,SP,,,
+225,Edwin Jackson,SP,,,
+226,Blake Wood,RP,,,
+227,A.J. Ellis,C,,,
+228,Craig Breslow,RP,,,
+229,Will Middlebrooks,3B,,,
+230,Chris O'Grady,RP,,,
+231,Carter Capps,RP,,,
+232,Joaquin Benoit,RP,,,
+233,A.J. Griffin,RP,,,
+234,Anthony Recker,C,,,
+235,Edward Mujica,RP,,,
+236,Jarrod Saltalamacchia,C,,,
+237,Peter Moylan,RP,,,
+238,Nick Tepesch,SP,,,
+239,Matt Holliday,OF,,,
+240,Aristides Aquino,RF,,,
+241,Sam Howard,RP,,,
+242,Junichi Tazawa,RP,,,
+243,Jose Torres,RP,,,
+244,Ramon Torres,SS,,,
+245,Jhonatan Solano,C,,,
+246,Rhiner Cruz,RP,,,
+247,Miguel Gomez,3B,,,
+248,Casey Kelly,SP,,,
+249,Randall Delgado,RP,,,
+250,Chris Tillman,SP,,,
+251,Erik Goeddel,RP,,,
+252,Jabari Blash,LF,,,
+253,Justin Haley,RP,,,
+254,Pierce Johnson,RP,,,
+255,Alexi Ogando,RP,,,
+256,Justin Hancock,RP,,,
+257,Brandon Phillips,2B,,,
+258,Manny Parra,RP,,,
+259,Jacob Turner,RP,,,
+260,Jose Bautista,RF,,,
+261,Ross Detwiler,SP,,,
+262,George Kontos,RP,,,
+263,Matt Belisle,RP,,,
+264,Austin Jackson,CF,,,
+265,Santiago Casilla,RP,,,
+266,Clay Rapada,RF,,,
+267,Cesar Ramos,RP,,,
+268,Chris Nelson,3B,,,
+269,Jason Bourgeois,LF,,,
+270,Luis Perez,RP,,,
+271,James Russell,RP,,,
+272,Brian Schlitter,RP,,,
+273,Nick Hagadone,RP,,,
+274,Jim Henderson,RP,,,
+275,Neftali Feliz,RP,,,
+276,Brayan Pena,C,,,
+277,Samir Duenez,1B,,,
+278,Shawn Tolleson,RP,,,
+279,Pedro Beato,RP,,,
+280,Mike Baxter,LF,,,
+281,Chris Young,RP,,,
+282,Cesar Jimenez,RP,,,
+283,Darin Downs,RP,,,
+284,Andy LaRoche,3B,,,
+285,Tommy Joseph,1B,,,
+286,Conor Gillaspie,3B,,,
+287,Adam Loewen,RP,,,
+288,Jordan Schafer,CF,,,
+289,Mike McCoy,RF,,,
+290,Daniel McCutchen,RP,,,
+291,Carlos Corporan,C,,,
+292,Bryan Morris,RP,,,
+293,Jo-Jo Reyes,SP,,,
+294,Chris Parmelee,1B,,,
+295,Hanley Ramirez,1B,,,
+296,Ryan Perry,RP,,,
+297,Luke Putkonen,RP,,,
+298,,,213.0,"$6,874,155","$1,464,195,000"
