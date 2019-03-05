@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>ETL Project</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/top_salaries">Top MLB Salaries, 2018</a></li>
+          <li><a href="/team_payroll">Team Payroll</a></li>
+          <li><a href="/historical_data">Historical Data</a></li>
+          <li><a href="/stadium_album">Stadium Album</a></li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <div class="jumbotron text-center">
+  <img class="lazyautosizes lazyload--loaded" alt="" data-srcset="https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/1024x576/cut.jpg 1024w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/768x432/cut.jpg 768w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/568x320/cut.jpg 568w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/320x180/cut.jpg 320w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/124x70/cut.jpg 124w" data-sizes="auto" sizes="658px" srcset="https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/1024x576/cut.jpg 1024w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/768x432/cut.jpg 768w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/568x320/cut.jpg 568w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/320x180/cut.jpg 320w,https://securea.mlb.com/assets/images/4/4/8/292733448/cuts/124x70/cut.jpg 124w">
+  </div>
+  <div class="container">
+          <h1 class="display-1" style="color: #c1440e">Welcome to your AZ Cactus League Headquarters!!!!</h1>
+        </div>
+    </div>
+  </div>
+
+  <div class="container">
+        <div class="row">
+            <!-- Left Image-->
+            <div class="col-lg-8 col-md-8 col-sm-12">
+                <h3>Featured Cactus League Image</h3>
+                <img class="lazyautosizes lazyload--loaded" alt="Featured Photo of the day" data-srcset="https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/1284x722/cut.jpg 1284w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/1024x576/cut.jpg 1024w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/768x432/cut.jpg 768w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/568x320/cut.jpg 568w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/320x180/cut.jpg 320w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/124x70/cut.jpg 124w" data-sizes="auto" sizes="658px" srcset="https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/1284x722/cut.jpg 1284w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/1024x576/cut.jpg 1024w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/768x432/cut.jpg 768w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/568x320/cut.jpg 568w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/320x180/cut.jpg 320w,https://securea.mlb.com/assets/images/6/4/6/304359646/cuts/124x70/cut.jpg 124w">
+            </div>
+            <!-- Right Image-->
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Latest Spring Training News</div>
+                      <div class="panel-body">
+                       <h2 style="color: #200ec1">{{ scraped.headline_title }}</h2>
+                        <h3 style="color: #c1440e">{{ scraped.headline_body }}</h3>
+                      </div>
+                    </div>
+                </div>
+            </div>
+  </div>
+            <!-- Cactus League Schedule-->
+            <div class="container">
+                <div class="row">
+                  <div class="col-md-8">
+                    <h1>Cactus League Standings </h1>
+                        <!-- {{Cactus_League_Scores}}-->
+                        <table border="1" class="dataframe"><thead><tr style="text-align: right;"><th></th><th>Team</th><th>W  Wins</th><th>L  Losses</th><th>PCT  Win Percentage</th></tr></thead><tbody><tr><th>0</th><td>L.A. Angels</td><td>7</td><td>3</td><td>0.700</td></tr><tr><th>1</th><td>San Diego</td><td>6</td><td>3</td><td>0.667</td></tr><tr><th>2</th><td>Seattle</td><td>6</td><td>3</td><td>0.667</td></tr><tr><th>3</th><td>Chi. Cubs</td><td>7</td><td>4</td><td>0.636</td></tr><tr><th>4</th><td>Arizona</td><td>5</td><td>3</td><td>0.625</td></tr><tr><th>5</th><td>Kansas City</td><td>6</td><td>4</td><td>0.600</td></tr><tr><th>6</th><td>L.A. Dodgers</td><td>6</td><td>4</td><td>0.600</td></tr><tr><th>7</th><td>San Francisco</td><td>4</td><td>5</td><td>0.444</td></tr><tr><th>8</th><td>Cleveland</td><td>4</td><td>6</td><td>0.400</td></tr><tr><th>9</th><td>Oakland</td><td>4</td><td>6</td><td>0.400</td></tr><tr><th>10</th><td>Colorado</td><td>3</td><td>5</td><td>0.375</td></tr><tr><th>11</th><td>Texas</td><td>3</td><td>5</td><td>0.375</td></tr><tr><th>12</th><td>Chi. White Sox</td><td>3</td><td>6</td><td>0.333</td></tr><tr><th>13</th><td>Cincinnati</td><td>3</td><td>6</td><td>0.333</td></tr><tr><th>14</th><td>Milwaukee</td><td>3</td><td>7</td><td>0.300</td></tr></tbody></table>'
+                  </div>
+            <!-- Lower Right Image-->
+                  <div class="col-md-4">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">Cactus League History</div>
+                        <div class="panel-body">
+                          <!--{{ scraped.headline_title }}-->
+                            <h2 style="color: #200ec1">Arizona Cactus League Association</h2>
+                            <!--{{ scraped.headline_body }}-->
+                            <h3 style="color: #c1440e">Since 1947, the Arizona Cactus League Association has consisted of members with direct interest in the good of the league. The Association has provided a forum to share operational efficiencies, to establish and nurture business relationships with respective Major League Baseball franchises and to facilitate and participate in activities to promote and fundraise for the Cactus League.</h3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+<footer class="container">
+    <p>   Frank Garcia and Roman Collins, ETL Project UofA Data Analytics Boot Camp 2019</p>
+</footer>
+
+</body>
+
+</html>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="/docs/4.3/assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="/docs/4.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+
