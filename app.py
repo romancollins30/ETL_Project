@@ -23,7 +23,20 @@ def home():
     # Return template and data
     return render_template("index.html", scraped=data)
 
+@app.route("/top_salaries")
+def top_salaries():
 
+    return render_template('top_salaries.html')
+
+@app.route("/team_payroll")
+def team_payroll():
+
+    return render_template('team_payroll.html')
+
+@app.route("/historical_data")
+def historical_data():
+
+    return render_template('historical_data.html')
 
 @app.route("/scrape")
 def scrape():
