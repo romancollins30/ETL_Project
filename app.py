@@ -10,7 +10,13 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/baseball_db")
 
 @app.route("/")
 def home():
+    
+    # Run the scrape function
+    baseball_data = scrape_mlb.scrape()
 
+    # Update the Mongo database using update and upsert=True
+    mongo.db.collection.update({}, baseball_data, upsert=True)
+    
     # Find one record of data from the mongo database
     data = mongo.db.collection.find_one()
 
