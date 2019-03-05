@@ -38,6 +38,11 @@ def historical_data():
 
     return render_template('historical_data.html')
 
+@app.route("/stadium_album")
+def stadium_album():
+
+    return render_template('stadium_album.html')
+
 @app.route("/scrape")
 def scrape():
 
