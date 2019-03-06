@@ -1,0 +1,8 @@
+E: 
+Our data was primarily taken from the Lahman baseball database and from various websites with current data on Major League Baseball. We had a table player salaries and the teams that they played on. The data went all the way back to 1986. There was also a table with info on each player. Including: First name, last name, rookie year, final season, and other general data about their career. We also scraped a table from the web that had the top 100 salaries in the MLB in 2018. Other things we scraped from the web included current news, current standings, and pictures.
+
+T: 
+When we grabed data from the Lahman database it was very extensive and a little hard for the average person to read. Instead of player names the salary table had player ID's. To bypass this we joined that table with the people table on playerID in order to grab the first and last name columns from there. We then concatenated those two columns to make the table a little prettier. Wa also decided to make a historical spending table for all 30 MLB teams. To do this we took the salary table and grouped it by team and year. We then did a sum on the salary column. The table we scraped from the web had an awkward index to it because some players had equal salaries. We just dropped the index from the original table and used pandas automatic indexing. 
+
+L:
+We used mongoDB fo our final database. We decided to do this because we had scraped data along with downloaded data. IT would have been hard to put all of our scraped data in to a SQL database. We also displayed our data in a flask app. This is what we had our sights on from the beginning when we were deciding what data we wanted and what we were going to do with it.
